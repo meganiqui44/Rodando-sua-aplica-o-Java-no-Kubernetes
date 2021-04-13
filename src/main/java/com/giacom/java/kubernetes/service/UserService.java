@@ -1,4 +1,4 @@
-package com.giacom.java.kubernetes.service;
+package com.doug.java.kubernetes.service;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -10,8 +10,8 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Propagation;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.giacom.java.kubernetes.domain.User;
-import com.giacom.java.kubernetes.persistence.UserRepository;
+import com.doug.java.kubernetes.domain.User;
+import com.doug.java.kubernetes.persistence.UserRepository;
 
 @Service
 public class UserService {

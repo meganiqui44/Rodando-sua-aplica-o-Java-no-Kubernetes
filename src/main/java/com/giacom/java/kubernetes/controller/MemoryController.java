@@ -1,4 +1,4 @@
-package com.giacom.java.kubernetes.controller;
+package com.doug.java.kubernetes.controller;
 
 import java.util.ArrayList;
 import java.util.List;

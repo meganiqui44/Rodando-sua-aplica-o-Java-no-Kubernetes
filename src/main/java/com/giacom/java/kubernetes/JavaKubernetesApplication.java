@@ -1,4 +1,4 @@
-package com.giacom.java.kubernetes;
+package com.doug.java.kubernetes;
 
 import java.time.LocalDate;
 import java.util.List;
@@ -9,9 +9,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import com.giacom.java.kubernetes.domain.User;
-import com.giacom.java.kubernetes.persistence.UserRepository;
-import com.giacom.java.kubernetes.service.UserService;
+import com.doug.java.kubernetes.domain.User;
+import com.doug.java.kubernetes.persistence.UserRepository;
+import com.doug.java.kubernetes.service.UserService;
 
 @SpringBootApplication
 public class JavaKubernetesApplication {

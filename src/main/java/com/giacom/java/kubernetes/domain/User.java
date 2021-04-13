@@ -1,4 +1,4 @@
-package com.giacom.java.kubernetes.domain;
+package com.doug.java.kubernetes.domain;
 
 import java.time.LocalDate;
 

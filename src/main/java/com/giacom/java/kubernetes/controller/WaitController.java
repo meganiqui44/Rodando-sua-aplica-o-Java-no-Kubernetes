@@ -1,4 +1,4 @@
-package com.giacom.java.kubernetes.controller;
+package com.doug.java.kubernetes.controller;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;
